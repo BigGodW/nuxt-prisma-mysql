@@ -1,0 +1,10 @@
+<template>
+    <div>
+        <h1>默认布局首页</h1>
+        <WebNav></WebNav>
+        <slot></slot>
+        <footer>
+            网站底部信息
+        </footer>
+    </div>
+</template>
